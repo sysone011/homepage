@@ -60,7 +60,7 @@ export default function Home() {
           />
           <Button
             type="submit"
-            className="p-[18px] px-[22px] bg-[#4285f4] text-white rounded-r-lg text-lg hover:bg-[#3367d6]"
+            className="p-[18px] px-[22px] bg-[#34A853] text-white rounded-r-lg text-lg hover:bg-[#2E8B57]"
           >
             검색
           </Button>
